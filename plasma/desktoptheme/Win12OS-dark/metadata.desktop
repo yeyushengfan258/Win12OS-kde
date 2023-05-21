@@ -1,0 +1,28 @@
+[Desktop Entry]
+Name=Win12OS-dark
+Comment=Win12OS-dark theme for plasma
+
+X-KDE-PluginInfo-Author=yeyushengfan258
+X-KDE-PluginInfo-Email=yeyushengfan258@outlook.com
+X-KDE-PluginInfo-Name=Win12OS-dark
+X-KDE-PluginInfo-Version=0.1
+X-KDE-PluginInfo-Website=https://github.com/yeyushengfan258/Win11OS-kde
+X-KDE-PluginInfo-Category=
+X-KDE-PluginInfo-Depends=
+X-KDE-PluginInfo-License=GPL 3.0
+X-KDE-PluginInfo-EnabledByDefault=true
+
+[ContrastEffect]
+enabled=false
+contrast=0.2
+intensity=0.4
+saturation=1.7
+
+[Wallpaper]
+defaultWallpaperTheme=Win12OS-dark
+defaultFileSuffix=.jpg
+defaultWidth=2560
+defaultHeight=1440
+
+[AdaptiveTransparency]
+enabled=true
